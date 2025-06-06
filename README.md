@@ -13,7 +13,7 @@ Este proyecto es una **galería de imágenes interactiva** creada con **JavaScri
 ## Tecnologías utilizadas
 
 - JavaScript (Vanilla)
-- 
+  
 ---
 
 Un ejercicio práctico para afianzar el manejo del DOM, eventos y estructuras dinámicas en JavaScript.
