@@ -1,6 +1,6 @@
 # Galería de Imágenes - Vanilla JavaScript
 
-Este proyecto es una **galería de imágenes interactiva** creada con **JavaScript puro (vanilla JS)**. Permite explorar imágenes mediante carruseles dinámicos con controles de navegación.
+Este proyecto es una **galería de imágenes interactiva** creada con **JavaScript puro (Vanilla JS)**. Permite explorar imágenes mediante carruseles dinámicos con controles de navegación.
 
 **Demo en vivo**: [https://stefan-trifan.github.io/JS-galeria-de-imagenes/](https://stefan-trifan.github.io/JS-galeria-de-imagenes/)
 
